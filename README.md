@@ -1,3 +1,3 @@
 # softwaredevelop
 first repository
-성공 
+repository
